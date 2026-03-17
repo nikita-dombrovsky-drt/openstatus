@@ -4,8 +4,8 @@
   "license": "MIT",
   "main": "./src/index.ts",
   "dependencies": {
-    "@upstash/qstash": "2.6.2",
-    "@upstash/redis": "1.22.1"
+    "@upstash/qstash": "2.9.1",
+    "@upstash/redis": "1.37.0"
   },
   "devDependencies": {
     "@openstatus/tsconfig": "workspace:*",

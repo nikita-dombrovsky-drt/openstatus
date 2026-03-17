@@ -22,11 +22,11 @@
   "devDependencies": {
     "@biomejs/biome": "1.8.3",
     "@turbo/gen": "1.13.3",
-    "oxfmt": "0.20.0",
-    "oxlint": "1.36.0",
-    "oxlint-tsgolint": "0.10.1",
+    "oxfmt": "0.41.0",
+    "oxlint": "1.56.0",
+    "oxlint-tsgolint": "0.17.0",
     "@types/node": "24.0.8",
-    "knip": "5.75.1",
+    "knip": "5.87.0",
     "turbo": "2.6.3",
     "typescript": "5.9.3"
   },
@@ -37,6 +37,6 @@
   "name": "openstatus",
   "workspaces": ["apps/*", "packages/**/*", "packages/config/*"],
   "overrides": {
-    "@react-email/preview-server": "npm:next@16.0.10"
+    "@react-email/preview-server": "npm:next@16.1.7"
   }
 }
