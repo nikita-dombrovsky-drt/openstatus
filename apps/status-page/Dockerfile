@@ -25,7 +25,7 @@ ENV \
     UPSTASH_REDIS_REST_TOKEN="test" \
     UNKEY_API_ID="test" \
     DATABASE_URL="http://libsql:8080" \
-    UPSTASH_REDIS_REST_URL="test" \
+    UPSTASH_REDIS_REST_URL="https://test.upstash.io" \
     VERCEL_AUTH_BEARER_TOKEN="test" \
     PNPM_HOME="/pnpm" \
     DATABASE_AUTH_TOKEN="test"

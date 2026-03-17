@@ -13,7 +13,7 @@ ENV \
     DATABASE_URL="http://libsql:8080" \
     DATABASE_AUTH_TOKEN="test" \
     UPSTASH_REDIS_REST_TOKEN="test" \
-    UPSTASH_REDIS_REST_URL="test" \
+    UPSTASH_REDIS_REST_URL="https://test.upstash.io" \
     AUTH_SECRET="build-time-placeholder-min-32-chars-long" \
     OPENPANEL_CLIENT_SECRET="test" \
     VERCEL_AUTH_BEARER_TOKEN="test" \
